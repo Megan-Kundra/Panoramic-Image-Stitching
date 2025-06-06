@@ -1,4 +1,5 @@
-# Panoramic-Image-Stitching-Application-Computer-Vision-Pipeline-
+# Panoramic-Image-Stitching
+
 This is a panoramic image stitching application that accepts two overlapping images, and uses industry standard computer vision pipelines to create a seamless panoramic image. The motive behind this was to experiment with the different computer vision pipelines necessary for using an affine image stitching pipeline vs a homography image stitching pipeline while utilizing opencv\cv2 python libraries.
 
 Specific features include:
